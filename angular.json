@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "uploadXML"
+    }
+  },
+  "defaultProject": "uploadXML",
+  "cli": {
+    "analytics": false
+  }
 }
